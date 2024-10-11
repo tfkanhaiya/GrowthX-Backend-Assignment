@@ -19,7 +19,11 @@ This is a backend system for an assignment submission portal where users can upl
 1. Clone the repository:
    ```bash
    git clone https://github.com/HarshaM07/assignment-portal-backend
-   cd assignment-submission-portal
+   cd assignment-portal
+
+2. npm install
+3. npm install express mongoose dotenv bcryptjs jsonwebtoken
+
 ## API Endpoints
 ## localhost:8080
 3. **Endpoints:**
