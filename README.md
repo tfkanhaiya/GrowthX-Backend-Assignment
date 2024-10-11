@@ -18,7 +18,7 @@ This is a backend system for an assignment submission portal where users can upl
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/HarshaM07/assignment-portal-backend
    cd assignment-submission-portal
 ## API Endpoints
 ## localhost:8080
