@@ -23,6 +23,7 @@ This is a backend system for an assignment submission portal where users can upl
 
 2. npm install
 3. npm install express mongoose dotenv bcryptjs jsonwebtoken
+4. npm start 
 
 ## API Endpoints
 ## localhost:8080
