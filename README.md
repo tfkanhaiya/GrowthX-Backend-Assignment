@@ -18,7 +18,7 @@ This is a backend system for an assignment submission portal where users can upl
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HarshaM07/assignment-portal-backend
+   git clone (https://github.com/tfkanhaiya/GrowthX-Backend-Assignment.git)
    cd assignment-portal
 
 2. npm install
